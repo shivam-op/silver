@@ -2,7 +2,7 @@
 
 Evil Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
-<p align="center"><a href="https://t.me/kiriros_Music_Bot"><img src="https://telegra.ph/file/ee6eb4812afaa1d473703.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/kiritos_Music_Bot"><img src="https://telegra.ph/file/ee6eb4812afaa1d473703.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
     <a href="https://github.com/Abhishek79799/Evilmusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
