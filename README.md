@@ -1,4 +1,4 @@
-## 🎵 EVIL MUSIC BOT
+## 🎵 𝙴𝚅𝙸𝙻 𝙼𝚄𝚂𝙸𝙲 𝙱𝙾𝚃
 
 Evil Music is a telegram bot project that's allow you to play music on telegram voice chat group.
 
