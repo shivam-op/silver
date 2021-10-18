@@ -79,7 +79,7 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel fill the channel username here without @",
             "required": false,
-            "value": "Be_lighthearted",
+            "value": "Be_lighthearted"
         },
         "GROUP_SUPPORT": {
             "description": "if you have group fill the group username here without @",
