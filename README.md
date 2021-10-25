@@ -24,9 +24,7 @@ Evil Music is a telegram bot project that's allow you to play music on telegram 
 
 ### 🧪 Get STRING_SESSION from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Abhishek79799
-/StringSession#main.py) ``Pyrogram``
-
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Abhishek79799/StringSession#main.py) ``Pyrogram``
 ### 🎖 History
 
 [![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/Abhishek79799/Evilmusic)
